@@ -1,0 +1,27 @@
+ul{
+    list-style: none;
+}
+li{
+    margin: 5px 0px;
+}
+li:before{
+    content: "";
+    background-image: url("/Fotos/unchecked.png");
+    background-size: 100% 100%;
+    display: inline-block;
+    height: 10px;
+    width: 10px;
+    margin-right: 5px;
+}
+.checked:before
+{
+    content: "";
+    background-image: url("/Fotos/checked.png");
+    background-size: 100% 100%;
+    display: inline-block;
+    height: 10px;
+    width: 10px;
+    margin-right: 5px;
+
+
+}
