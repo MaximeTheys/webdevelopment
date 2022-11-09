@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1da2b0b2-18fa-4013-95df-c8e914690635" name="Changes" comment="Labo 3&#10;&#10;Update">
-      <change afterPath="$PROJECT_DIR$/Labo_7/opdracht_Nature_Blog/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_7/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_7/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_7/opdracht_Nature_Blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_7/opdracht_Nature_Blog/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fotos/header.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_7/opdracht_Nature_Blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_7/opdracht_Nature_Blog/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +55,7 @@
       <recent name="C:\Users\dinom\OneDrive\Documenten\GitHub\webdevelopment" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dinom\OneDrive\Documenten\GitHub\webdevelopment\Fotos" />
       <recent name="C:\Users\dinom\OneDrive\Documenten\GitHub\webdevelopment\Labo_7\opdracht_Nature_Blog" />
     </key>
   </component>
@@ -141,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668004236674</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Labo 3&#10;&#10;Update">
+      <created>1668005527262</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1668005527262</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
