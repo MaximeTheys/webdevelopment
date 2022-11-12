@@ -1,0 +1,42 @@
+body {
+    width: 1200px;
+    font-size: 10px;
+    font-family: Verdana, sans-serif;
+    margin: 0 auto ;
+}
+
+#title {
+    background-image: url("../../Fotos/header.jpg");
+    height: 100px;
+}
+#title h1 {
+    color: white;
+    font-size: 35px;
+    margin: 10px;
+}
+nav {
+    background-color: #555555;
+}
+nav a {
+    color: lightgreen;
+}
+
+nav a:visited {
+    color: lightgreen;
+}
+
+nav a:hover {
+    text-decoration: underline;
+    color: white;
+}
+
+article {
+    background-color: #d7d7d7;
+    padding: 10px;
+}
+
+article h1{
+    font-size: 17px;
+    text-decoration: underline;
+    color: black;
+}
