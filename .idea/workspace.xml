@@ -5,18 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1da2b0b2-18fa-4013-95df-c8e914690635" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/Fotos/156418002_2278544665609318_2385467279651491278_n.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fotos/18394_450x640.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fotos/CRf3cpuvC6VHfNFrysW57D.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fotos/Hans-Zimmer-profile.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fotos/file-20181031-76393-1ycnfy8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fotos/g9a9m-MHM425BWQ9F-Full-Image_GalleryBackground-en-US-1521579412582._RI_.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_9_11_2022_14_30__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_9_11_2022_14_30__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_7/opdracht_Kalender/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_7/opdracht_Kalender/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_7/opdracht_Kalender.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_7/opdracht_Nature_Blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_7/opdracht_Nature_Blog/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_7/opdracht_Nature_Blog/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_7/opdracht_Nature_Blog/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_7/opdracht_Persoonlijke_Homepagina.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +73,7 @@
       <workItem from="1665703600775" duration="4000" />
       <workItem from="1665870587715" duration="27000" />
       <workItem from="1665878720852" duration="1423000" />
+      <workItem from="1668332414225" duration="2260000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1665325108088</created>
@@ -90,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665325108088</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <created>1668289739666</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668289739666</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

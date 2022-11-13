@@ -1,0 +1,52 @@
+#kalender{
+    font-family: "Times New Roman", sans-serif;
+
+}
+#kalender h2{
+    margin-bottom: 4px;
+    margin-top: 4px;
+    font-weight: bold;
+}
+#kalender table{
+    border-style: solid;
+    border-color: black;
+    display: inline-block;
+    background-color: rgb(170,170,200);
+    border-collapse: collapse;
+    border-width: 2px;
+
+}
+#kalender .notjune{
+    background-color: lightgray;
+}
+thead{
+    background-color: rgb(35,37,70);
+    color: rgb(200,190,240);
+}
+td:first-child{
+    background-color: rgb(255, 220, 220);
+}
+td:last-child{
+    background-color: rgb(255, 220, 220);
+}
+td{
+    border-bottom-style: dotted;
+    border-right-style: dotted;
+    border-width: 1px;
+}
+thead th{
+    border-style: dotted dotted dotted none;
+    border-color: rgb(200,190,240);
+}
+.vrij  {
+    background-color: rgb(250,120,120);
+}
+#kalender tr:last-child td{
+    border-bottom: none;
+}
+#kalender td:last-child{
+    border-right-style: none;
+}
+#kalender th:last-child{
+    border-right: none ;
+}
