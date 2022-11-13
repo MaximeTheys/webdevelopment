@@ -1,0 +1,139 @@
+
+html{
+    background-color: white;
+}
+
+
+body{
+    margin: auto;
+    margin-top: -30px;
+    margin-bottom: 20px;
+    width: 1000px;
+    font-family: Calibri;
+    background-color: #dcf5ff;
+    border: #2B2D42 10px solid;
+
+}
+
+
+h1 {
+    font-family: Calibri;
+    color: white;
+    background-image: url("../../Fotos/file-20181031-76393-1ycnfy8.jpg");
+    height: 80px;
+    text-align: center;
+}
+h2 {
+    font-family: Calibri;
+    font-size: medium;
+    font-style: italic;
+    color: white;
+    text-align: center;
+    margin-top: -60px;
+}
+h3 {
+    font-family: Calibri;
+    color: #ffffff;
+    background-color: #2B2D42;
+    font-size: 17px;
+}
+h4 {
+    font-family: Calibri;
+    color: #ffffff;
+    background-color: #2B2D42;
+    font-size: 17px;
+}
+h5 {
+    font-family: Calibri;
+    color: #ffffff;
+    background-color: #2B2D42;
+    font-size: 17px;
+}
+
+h6 {
+    font-family: Calibri;
+    color: #ffffff;
+    background-color: #2B2D42;
+    font-size: 17px;
+}
+
+h7{
+    font-family: Calibri;
+    color: #ffffff;
+    background-color: #2B2D42;
+    font-size: 17px;
+}
+img {
+    display: block;
+    border: #000000 5px solid;
+}
+nav{
+
+margin-top: -10px;
+    background-color: #2B2D42;
+}
+nav a{
+    color: white;
+}
+nav a:hover {
+    color: #008cff;
+    font-weight: bold;
+
+}
+nav a:visited{
+    color: mediumpurple;
+}
+
+nav a:before {
+    content: "";
+    background-size: 100%;
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+}
+
+#main\ photo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: #000000 5px solid;
+}
+#Hans_Zimmer_Text{
+    float: right;
+}
+#table
+{
+    margin-top: 50px;
+}
+#gewonetekst{
+    margin-bottom: 20px;
+}
+#datagrid{
+
+    border-collapse: collapse; text-align: left; width: 100%; }
+.datagrid {font: normal 12px/150% Arial, Helvetica, sans-serif; background: #fff; overflow: hidden; }
+.datagrid table td,
+.datagrid table th { padding: 10px 10px; }
+.datagrid table thead th {background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #253899), color-stop(1, #253899) );background:-moz-linear-gradient(center top, #253899 5%, #253899 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#253899', endColorstr='#253899');background-color:#253899; color:#FFFFFF; font-size: 15px; font-weight: bold; border-left: 2px solid #0070A8; }
+.datagrid table thead th:first-child { border: none; }
+.datagrid table tbody td { color: #253899; border-left: 1px solid #E1EEF4;font-size: 13px;border-bottom: 1px solid #E1EEF4;font-weight: normal; }
+.datagrid table tbody .alt td { background: #E1EEF4; color: #253899; }
+.datagrid table tbody td:first-child { border-left: none; }.datagrid table tbody tr:last-child td { border-bottom: none;}
+.datagrid table tfoot td div { border-top: 1px solid #253899;background: #E1EEF4;}
+.datagrid table tfoot td { padding: 0; font-size: 10px }
+.datagrid table tfoot td div{ padding: 5px; }
+.datagrid table tfoot td ul { margin: 0; padding:0; list-style: none; text-align: right; }
+.datagrid table tfoot  li { display: inline; }
+.datagrid table tfoot li a { text-decoration: none; display: inline-block;padding: 2px 8px; margin: 1px;color: #FFFFFF;background: -webkit-gradient( linear, left top, left bottom, color-stop(0.05, #253899), color-stop(1, #253899) );background:-moz-linear-gradient( center top, #253899 5%, #253899 100% );filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#253899', endColorstr='#253899');background-color:#253899; }
+.datagrid table tfoot ul.active,
+.datagrid table tfoot ul a:hover { text-decoration: none;border-color: #253899; color: #FFFFFF; background: none; background-color:#253899;
+}
+
+.onbekend{
+    background-color: red;
+}
+table{
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+}
