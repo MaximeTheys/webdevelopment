@@ -1,0 +1,222 @@
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_12_11_2022_18_47__Changes_.xml
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_12_11_2022_18_47__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_Update_at_12_11_2022_18_47__Changes_.xml
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_12_11_2022_18_47__Changes_.xml	(revision c2962abbe70da1cf90bbe0e4776e744d025cf077)
++++ /dev/null	(revision c2962abbe70da1cf90bbe0e4776e744d025cf077)
+@@ -1,4 +0,0 @@
+-<changelist name="Uncommitted_changes_before_Update_at_12_11_2022_18_47_[Changes]" date="1668275225575" recycled="true" deleted="true">
+-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_11_2022_18_47_[Changes]/shelved.patch" />
+-  <option name="DESCRIPTION" value="Uncommitted changes before Update at 12/11/2022 18:47 [Changes]" />
+-</changelist>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_9_11_2022_14_30_[Changes]/shelved.patch
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_9_11_2022_14_30_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Update_at_9_11_2022_14_30_[Changes]/shelved.patch
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_9_11_2022_14_30_[Changes]/shelved.patch	(revision c2962abbe70da1cf90bbe0e4776e744d025cf077)
++++ /dev/null	(revision c2962abbe70da1cf90bbe0e4776e744d025cf077)
+@@ -1,96 +0,0 @@
+-Index: .idea/workspace.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"1da2b0b2-18fa-4013-95df-c8e914690635\" name=\"Changes\" comment=\"Labo 3&#10;&#10;Update\">\r\n      <change afterPath=\"$PROJECT_DIR$/labo_5/index.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/labo_5/opdracht_1.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/labo_5/opdracht_3.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/labo_5/opdracht_4.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/labo_5/opdracht_6/Styles/stijl.css\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/labo_5/opdracht_6/index.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/labo_5/opdracht_7.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Labo_4/opdracht_5/Index.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Labo_4/opdracht_5/Index.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/index.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/index.html\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"CSS File\" />\r\n        <option value=\"HTML File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProblemsViewState\">\r\n    <option name=\"selectedTabId\" value=\"CurrentFile\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2FiTJ0yAB94tuBHgrclZT6ka3SW\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;C:/Users/dinom/OneDrive/Documenten/GitHub/webdevelopment&quot;,\r\n    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,\r\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\dinom\\OneDrive\\Documenten\\GitHub\\webdevelopment\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"1da2b0b2-18fa-4013-95df-c8e914690635\" name=\"Changes\" comment=\"\" />\r\n      <created>1664973832336</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1664973832336</updated>\r\n      <workItem from=\"1664973834717\" duration=\"1005000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"update\">\r\n      <created>1665325108088</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1665325108088</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"2\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"update\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"update\" />\r\n  </component>\r\n</project>
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+---- a/.idea/workspace.xml	(revision 3166ba640fddac1ee7cad249e6b1bc81c1f1c28d)
+-+++ b/.idea/workspace.xml	(date 1666707984088)
+-@@ -1,18 +1,7 @@
+- <?xml version="1.0" encoding="UTF-8"?>
+- <project version="4">
+-   <component name="ChangeListManager">
+--    <list default="true" id="1da2b0b2-18fa-4013-95df-c8e914690635" name="Changes" comment="Labo 3&#10;&#10;Update">
+--      <change afterPath="$PROJECT_DIR$/labo_5/index.html" afterDir="false" />
+--      <change afterPath="$PROJECT_DIR$/labo_5/opdracht_1.html" afterDir="false" />
+--      <change afterPath="$PROJECT_DIR$/labo_5/opdracht_3.html" afterDir="false" />
+--      <change afterPath="$PROJECT_DIR$/labo_5/opdracht_4.html" afterDir="false" />
+--      <change afterPath="$PROJECT_DIR$/labo_5/opdracht_6/Styles/stijl.css" afterDir="false" />
+--      <change afterPath="$PROJECT_DIR$/labo_5/opdracht_6/index.html" afterDir="false" />
+--      <change afterPath="$PROJECT_DIR$/labo_5/opdracht_7.html" afterDir="false" />
+--      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+--      <change beforePath="$PROJECT_DIR$/Labo_4/opdracht_5/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_4/opdracht_5/Index.html" afterDir="false" />
+--      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+--    </list>
+-+    <list default="true" id="1da2b0b2-18fa-4013-95df-c8e914690635" name="Changes" comment="Labo 3&#10;&#10;Update" />
+-     <option name="SHOW_DIALOG" value="false" />
+-     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+-     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+-@@ -40,17 +29,21 @@
+-     <option name="hideEmptyMiddlePackages" value="true" />
+-     <option name="showLibraryContents" value="true" />
+-   </component>
+--  <component name="PropertiesComponent">{
+--  &quot;keyToString&quot;: {
+--    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+--    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+--    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+--    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+--    &quot;last_opened_file_path&quot;: &quot;C:/Users/dinom/OneDrive/Documenten/GitHub/webdevelopment&quot;,
+--    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+--    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+-+  <component name="PropertiesComponent"><![CDATA[{
+-+  "keyToString": {
+-+    "DefaultHtmlFileTemplate": "HTML File",
+-+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-+    "RunOnceActivity.ShowReadmeOnStart": "true",
+-+    "WebServerToolWindowFactoryState": "false",
+-+    "last_opened_file_path": "C:/Users/dinom/OneDrive/Documenten/GitHub/webdevelopment",
+-+    "list.type.of.created.stylesheet": "CSS",
+-+    "node.js.detected.package.eslint": "true",
+-+    "node.js.detected.package.tslint": "true",
+-+    "node.js.selected.package.eslint": "(autodetect)",
+-+    "node.js.selected.package.tslint": "(autodetect)",
+-+    "vue.rearranger.settings.migration": "true"
+-   }
+--}</component>
+-+}]]></component>
+-   <component name="RecentsManager">
+-     <key name="CopyFile.RECENT_KEYS">
+-       <recent name="C:\Users\dinom\OneDrive\Documenten\GitHub\webdevelopment" />
+-@@ -65,6 +58,7 @@
+-       <option name="presentableId" value="Default" />
+-       <updated>1664973832336</updated>
+-       <workItem from="1664973834717" duration="1005000" />
+-+      <workItem from="1666707458058" duration="520000" />
+-     </task>
+-     <task id="LOCAL-00001" summary="update">
+-       <created>1665325108088</created>
+-@@ -73,7 +67,14 @@
+-       <option name="project" value="LOCAL" />
+-       <updated>1665325108088</updated>
+-     </task>
+--    <option name="localTasksCounter" value="2" />
+-+    <task id="LOCAL-00002" summary="Labo 3&#10;&#10;Update">
+-+      <created>1666707731023</created>
+-+      <option name="number" value="00002" />
+-+      <option name="presentableId" value="LOCAL-00002" />
+-+      <option name="project" value="LOCAL" />
+-+      <updated>1666707731023</updated>
+-+    </task>
+-+    <option name="localTasksCounter" value="3" />
+-     <servers />
+-   </component>
+-   <component name="TypeScriptGeneratedFilesManager">
+-@@ -92,6 +93,7 @@
+-   </component>
+-   <component name="VcsManagerConfiguration">
+-     <MESSAGE value="update" />
+--    <option name="LAST_COMMIT_MESSAGE" value="update" />
+-+    <MESSAGE value="Labo 3&#10;&#10;Update" />
+-+    <option name="LAST_COMMIT_MESSAGE" value="Labo 3&#10;&#10;Update" />
+-   </component>
+- </project>
+-\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_12_11_2022_18_47_[Changes]/shelved.patch
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_12_11_2022_18_47_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Update_at_12_11_2022_18_47_[Changes]/shelved.patch
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_12_11_2022_18_47_[Changes]/shelved.patch	(revision c2962abbe70da1cf90bbe0e4776e744d025cf077)
++++ /dev/null	(revision c2962abbe70da1cf90bbe0e4776e744d025cf077)
+@@ -1,35 +0,0 @@
+-Index: .idea/workspace.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"1da2b0b2-18fa-4013-95df-c8e914690635\" name=\"Changes\" comment=\"update\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"CSS File\" />\r\n        <option value=\"HTML File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProblemsViewState\">\r\n    <option name=\"selectedTabId\" value=\"CurrentFile\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2FiTJ0yAB94tuBHgrclZT6ka3SW\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"DefaultHtmlFileTemplate\": \"HTML File\",\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"WebServerToolWindowFactoryState\": \"false\",\r\n    \"last_opened_file_path\": \"C:/Users/dinom/OneDrive/Documenten/GitHub/webdevelopment\",\r\n    \"list.type.of.created.stylesheet\": \"CSS\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"settings.editor.selected.configurable\": \"preferences.lookFeel\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\dinom\\OneDrive\\Documenten\\GitHub\\webdevelopment\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"1da2b0b2-18fa-4013-95df-c8e914690635\" name=\"Changes\" comment=\"\" />\r\n      <created>1664973832336</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1664973832336</updated>\r\n      <workItem from=\"1664973834717\" duration=\"1005000\" />\r\n      <workItem from=\"1665657656403\" duration=\"12199000\" />\r\n      <workItem from=\"1665703600775\" duration=\"4000\" />\r\n      <workItem from=\"1665870587715\" duration=\"27000\" />\r\n      <workItem from=\"1665878720852\" duration=\"1423000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"update\">\r\n      <created>1665325108088</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1665325108088</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"2\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"update\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"update\" />\r\n  </component>\r\n</project>
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+---- a/.idea/workspace.xml	(revision a2bc64db58ac2bffb558ac1be4b7af9607d2202a)
+-+++ b/.idea/workspace.xml	(date 1665880453542)
+-@@ -65,7 +65,7 @@
+-       <workItem from="1665657656403" duration="12199000" />
+-       <workItem from="1665703600775" duration="4000" />
+-       <workItem from="1665870587715" duration="27000" />
+--      <workItem from="1665878720852" duration="1423000" />
+-+      <workItem from="1665878720852" duration="1719000" />
+-     </task>
+-     <task id="LOCAL-00001" summary="update">
+-       <created>1665325108088</created>
+-@@ -74,7 +74,14 @@
+-       <option name="project" value="LOCAL" />
+-       <updated>1665325108088</updated>
+-     </task>
+--    <option name="localTasksCounter" value="2" />
+-+    <task id="LOCAL-00002" summary="update">
+-+      <created>1665880233108</created>
+-+      <option name="number" value="00002" />
+-+      <option name="presentableId" value="LOCAL-00002" />
+-+      <option name="project" value="LOCAL" />
+-+      <updated>1665880233109</updated>
+-+    </task>
+-+    <option name="localTasksCounter" value="3" />
+-     <servers />
+-   </component>
+-   <component name="TypeScriptGeneratedFilesManager">
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_9_11_2022_14_30__Changes_.xml
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_9_11_2022_14_30__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_Update_at_9_11_2022_14_30__Changes_.xml
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_9_11_2022_14_30__Changes_.xml	(revision c2962abbe70da1cf90bbe0e4776e744d025cf077)
++++ /dev/null	(revision c2962abbe70da1cf90bbe0e4776e744d025cf077)
+@@ -1,4 +0,0 @@
+-<changelist name="Uncommitted_changes_before_Update_at_9_11_2022_14_30_[Changes]" date="1668000622270" recycled="true" deleted="true">
+-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_9_11_2022_14_30_[Changes]/shelved.patch" />
+-  <option name="DESCRIPTION" value="Uncommitted changes before Update at 9/11/2022 14:30 [Changes]" />
+-</changelist>
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"1da2b0b2-18fa-4013-95df-c8e914690635\" name=\"Changes\" comment=\"update\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"CSS File\" />\r\n        <option value=\"HTML File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProblemsViewState\">\r\n    <option name=\"selectedTabId\" value=\"CurrentFile\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2FiTJ0yAB94tuBHgrclZT6ka3SW\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;C:/Users/dinom/OneDrive/Documenten/GitHub/webdevelopment&quot;,\r\n    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,\r\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,\r\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\dinom\\OneDrive\\Documenten\\GitHub\\webdevelopment\" />\r\n    </key>\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\Maxime\\Documents\\GitHub\\webdevelopment\\Fotos\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"1da2b0b2-18fa-4013-95df-c8e914690635\" name=\"Changes\" comment=\"\" />\r\n      <created>1664973832336</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1664973832336</updated>\r\n      <workItem from=\"1664973834717\" duration=\"1005000\" />\r\n      <workItem from=\"1665657656403\" duration=\"12199000\" />\r\n      <workItem from=\"1665703600775\" duration=\"4000\" />\r\n      <workItem from=\"1665870587715\" duration=\"27000\" />\r\n      <workItem from=\"1665878720852\" duration=\"1423000\" />\r\n      <workItem from=\"1668332414225\" duration=\"2751000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"update\">\r\n      <created>1665325108088</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1665325108088</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"update\">\r\n      <created>1668289739666</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1668289739666</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"update\">\r\n      <created>1668334916127</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1668334916127</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"4\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"update\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"update\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision c2962abbe70da1cf90bbe0e4776e744d025cf077)
++++ b/.idea/workspace.xml	(date 1668335594958)
+@@ -4,7 +4,9 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="1da2b0b2-18fa-4013-95df-c8e914690635" name="Changes" comment="update" />
++    <list default="true" id="1da2b0b2-18fa-4013-95df-c8e914690635" name="Changes" comment="update">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -69,7 +71,7 @@
+       <workItem from="1665703600775" duration="4000" />
+       <workItem from="1665870587715" duration="27000" />
+       <workItem from="1665878720852" duration="1423000" />
+-      <workItem from="1668332414225" duration="2751000" />
++      <workItem from="1668332414225" duration="3153000" />
+     </task>
+     <task id="LOCAL-00001" summary="update">
+       <created>1665325108088</created>
+@@ -92,7 +94,21 @@
+       <option name="project" value="LOCAL" />
+       <updated>1668334916127</updated>
+     </task>
+-    <option name="localTasksCounter" value="4" />
++    <task id="LOCAL-00004" summary="update">
++      <created>1668335321323</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1668335321323</updated>
++    </task>
++    <task id="LOCAL-00005" summary="update">
++      <created>1668335434729</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1668335434729</updated>
++    </task>
++    <option name="localTasksCounter" value="6" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
