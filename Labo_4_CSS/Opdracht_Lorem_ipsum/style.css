@@ -1,0 +1,20 @@
+.divlinks:after{
+
+}
+.divrechts{
+
+
+
+}
+section{
+
+    box-sizing: border-box;
+    float: left;
+    width: 50%;
+
+
+}
+div{
+    border: solid  1px;
+    padding: 10px;
+}
