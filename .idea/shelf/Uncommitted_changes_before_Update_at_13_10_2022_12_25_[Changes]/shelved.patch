@@ -1,0 +1,71 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -2,12 +2,7 @@
+ <project version="4">
+   <component name="ChangeListManager">
+     <list default="true" id="1da2b0b2-18fa-4013-95df-c8e914690635" name="Changes" comment="update">
+-      <change afterPath="$PROJECT_DIR$/Labo_3/CSS.css" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Labo_3/contact/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_3/contact/index.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Labo_3/homepage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_3/homepage/index.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Labo_3/opdrachten_1_2_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_3/opdrachten_1_2_3.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Labo_3/opleidingsaanbod/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_3/opleidingsaanbod/index.html" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -32,16 +27,16 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "WebServerToolWindowFactoryState": "false",
+-    "last_opened_file_path": "C:/Users/dinom/OneDrive/Documenten/GitHub/webdevelopment",
+-    "list.type.of.created.stylesheet": "CSS",
+-    "vue.rearranger.settings.migration": "true"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
++    &quot;last_opened_file_path&quot;: &quot;C:/Users/dinom/OneDrive/Documenten/GitHub/webdevelopment&quot;,
++    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
++    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RecentsManager">
+     <key name="CopyFile.RECENT_KEYS">
+       <recent name="C:\Users\dinom\OneDrive\Documenten\GitHub\webdevelopment" />
+@@ -56,6 +51,7 @@
+       <option name="presentableId" value="Default" />
+       <updated>1664973832336</updated>
+       <workItem from="1664973834717" duration="1005000" />
++      <workItem from="1665655613554" duration="595000" />
+     </task>
+     <task id="LOCAL-00001" summary="update">
+       <created>1665325108088</created>
+@@ -64,7 +60,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1665325108088</updated>
+     </task>
+-    <option name="localTasksCounter" value="2" />
++    <task id="LOCAL-00002" summary="update">
++      <created>1665350536947</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1665350536947</updated>
++    </task>
++    <option name="localTasksCounter" value="3" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
