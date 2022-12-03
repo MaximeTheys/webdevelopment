@@ -1,0 +1,29 @@
+main
+{
+    width: 50%;
+    margin: auto;
+}
+body{
+font: 1.25em sans-serif;
+}
+article{
+    border: solid black 1px;
+    margin: 0 10px 10px 10px;
+    padding: 0 10px;
+height: 260px;
+
+
+}
+
+img{
+    float: left;
+    margin-right: 10px;
+}
+
+h2{
+    margin-top: 2px;
+}
+article:nth-child(even) img{
+    float: right;
+    margin-left: 5px;
+}
