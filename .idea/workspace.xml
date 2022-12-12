@@ -5,43 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1da2b0b2-18fa-4013-95df-c8e914690635" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/Fotos/A380Grond.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fotos/Britischairways.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fotos/abramovich.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fotos/airbus_logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fotos/bgsky1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fotos/bgsky2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fotos/bgsky3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fotos/binnen1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fotos/binnen2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fotos/binnen3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fotos/cockpit.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fotos/flight1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fotos/flight2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fotos/flight3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fotos/flight4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fotos/indelucht.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fotos/indelucht2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fotos/pagebackground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fotos/pasagiers.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fotos/qantas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fotos/tek.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fotos/tekening.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fotos/tekklein.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fotos/transport.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_5_CSS/Opdracht_Airbus/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_5_CSS/Opdracht_Airbus/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_5_CSS/Opdracht_Positioneren_van_images/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_5_CSS/Opdracht_Positioneren_van_images/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_5_CSS/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_11_2022_14_23_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_11_2022_14_23__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_11_2022_22_49__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_11_2022_22_49__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fotos/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fotos/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fotos/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fotos/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fotos/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fotos/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fotos/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fotos/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fotos/IMG-6154.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fotos/cat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fotos/cat1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fotos/cat2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fotos/cat3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fotos/cat4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fotos/fgngf.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fotos/hng.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fotos/vdd.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_6_CSS/Oef_1/bootstrap_grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_6_CSS/Oef_1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_6_CSS/Oef_1/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_6_CSS/Oef_2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_6_CSS/Oef_2/style_oef2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_6_CSS/Oef_Composition_A/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_6_CSS/Oef_Composition_A/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_6_CSS/Oef_MediaQueries/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_6_CSS/Oef_MediaQueries/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_6_CSS/Oef_homepage_uitbreiding/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_6_CSS/Oef_homepage_uitbreiding/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_6_CSS/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13_10_2022_12_25__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13_10_2022_12_25__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_11_2022_22_49_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_11_2022_22_49__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_12_2022_15_40__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_12_2022_15_40__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontendmentorprofilecardBeginSituatie/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontendmentorprofilecardBeginSituatie/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontendmentorprofilecardBeginSituatie/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontendmentorprofilecardBeginSituatie/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,37 +63,38 @@
     <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2FiTJ0yAB94tuBHgrclZT6ka3SW" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/dinom/OneDrive/Documenten/GitHub/webdevelopment&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Maxime/Documents/GitHub/webdevelopment/Labo_6_CSS/Oef_2",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Maxime\Documents\GitHub\webdevelopment\Labo_6_CSS\Oef_2" />
+      <recent name="C:\Users\Maxime\Documents\GitHub\webdevelopment\Labo_4_CSS\Opdracht_Lorem_ipsum" />
       <recent name="C:\Users\dinom\OneDrive\Documenten\GitHub\webdevelopment" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Maxime\WebstormProjects\webdevelopment\Fotos" />
-      <recent name="C:\Users\Maxime\WebstormProjects\webdevelopment\Labo_5_CSS\Opdracht Airbus" />
-      <recent name="C:\Users\Maxime\WebstormProjects\webdevelopment\Labo_5_CSS\Opdracht Positioneren van images" />
-      <recent name="C:\Users\Maxime\WebstormProjects\webdevelopment\Labo_5_CSS" />
-      <recent name="C:\Users\Maxime\WebstormProjects\webdevelopment" />
+      <recent name="C:\Users\Maxime\Documents\GitHub\webdevelopment\Labo_6_CSS\Oef_homepage_uitbreiding" />
+      <recent name="C:\Users\Maxime\Documents\GitHub\webdevelopment\Labo_6_CSS\Oef_2" />
+      <recent name="C:\Users\Maxime\Documents\GitHub\webdevelopment\Labo_6_CSS" />
+      <recent name="C:\Users\Maxime\Documents\GitHub\webdevelopment\Fotos" />
+      <recent name="C:\Users\Maxime\Documents\GitHub\webdevelopment\Labo_4_CSS\Opdracht_Cocktail_bar" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -110,9 +108,9 @@
       <workItem from="1664973834717" duration="1005000" />
       <workItem from="1665657656403" duration="12199000" />
       <workItem from="1665703600775" duration="4000" />
-      <workItem from="1667082435307" duration="1767000" />
-      <workItem from="1667133681865" duration="4450000" />
-      <workItem from="1670086324267" duration="2564000" />
+      <workItem from="1665870587715" duration="27000" />
+      <workItem from="1665878720852" duration="1423000" />
+      <workItem from="1668332414225" duration="2751000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1665325108088</created>
@@ -122,13 +120,48 @@
       <updated>1665325108088</updated>
     </task>
     <task id="LOCAL-00002" summary="update">
-      <created>1666734989155</created>
+      <created>1668289739666</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1666734989155</updated>
+      <updated>1668289739666</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update">
+      <created>1668334916127</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668334916127</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update">
+      <created>1669509537749</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669509537749</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update">
+      <created>1669509550598</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669509550598</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update">
+      <created>1669509652910</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669509652910</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update">
+      <created>1669509830985</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1669509830985</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
