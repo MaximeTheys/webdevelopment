@@ -1,0 +1,341 @@
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_12_11_2022_18_47__Changes_.xml
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_12_11_2022_18_47__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_Update_at_12_11_2022_18_47__Changes_.xml
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_12_11_2022_18_47__Changes_.xml	(revision e44ff744c2b19f7bbeba1a62ce7b29267d82837f)
++++ /dev/null	(revision e44ff744c2b19f7bbeba1a62ce7b29267d82837f)
+@@ -1,4 +0,0 @@
+-<changelist name="Uncommitted_changes_before_Update_at_12_11_2022_18_47_[Changes]" date="1668275225575" recycled="true" deleted="true">
+-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_11_2022_18_47_[Changes]/shelved.patch" />
+-  <option name="DESCRIPTION" value="Uncommitted changes before Update at 12/11/2022 18:47 [Changes]" />
+-</changelist>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_12_11_2022_18_47_[Changes]/shelved.patch
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_12_11_2022_18_47_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Update_at_12_11_2022_18_47_[Changes]/shelved.patch
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_12_11_2022_18_47_[Changes]/shelved.patch	(revision e44ff744c2b19f7bbeba1a62ce7b29267d82837f)
++++ /dev/null	(revision e44ff744c2b19f7bbeba1a62ce7b29267d82837f)
+@@ -1,35 +0,0 @@
+-Index: .idea/workspace.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"1da2b0b2-18fa-4013-95df-c8e914690635\" name=\"Changes\" comment=\"update\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"CSS File\" />\r\n        <option value=\"HTML File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProblemsViewState\">\r\n    <option name=\"selectedTabId\" value=\"CurrentFile\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2FiTJ0yAB94tuBHgrclZT6ka3SW\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"DefaultHtmlFileTemplate\": \"HTML File\",\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"WebServerToolWindowFactoryState\": \"false\",\r\n    \"last_opened_file_path\": \"C:/Users/dinom/OneDrive/Documenten/GitHub/webdevelopment\",\r\n    \"list.type.of.created.stylesheet\": \"CSS\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"settings.editor.selected.configurable\": \"preferences.lookFeel\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\dinom\\OneDrive\\Documenten\\GitHub\\webdevelopment\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"1da2b0b2-18fa-4013-95df-c8e914690635\" name=\"Changes\" comment=\"\" />\r\n      <created>1664973832336</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1664973832336</updated>\r\n      <workItem from=\"1664973834717\" duration=\"1005000\" />\r\n      <workItem from=\"1665657656403\" duration=\"12199000\" />\r\n      <workItem from=\"1665703600775\" duration=\"4000\" />\r\n      <workItem from=\"1665870587715\" duration=\"27000\" />\r\n      <workItem from=\"1665878720852\" duration=\"1423000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"update\">\r\n      <created>1665325108088</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1665325108088</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"2\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"update\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"update\" />\r\n  </component>\r\n</project>
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+---- a/.idea/workspace.xml	(revision a2bc64db58ac2bffb558ac1be4b7af9607d2202a)
+-+++ b/.idea/workspace.xml	(date 1665880453542)
+-@@ -65,7 +65,7 @@
+-       <workItem from="1665657656403" duration="12199000" />
+-       <workItem from="1665703600775" duration="4000" />
+-       <workItem from="1665870587715" duration="27000" />
+--      <workItem from="1665878720852" duration="1423000" />
+-+      <workItem from="1665878720852" duration="1719000" />
+-     </task>
+-     <task id="LOCAL-00001" summary="update">
+-       <created>1665325108088</created>
+-@@ -74,7 +74,14 @@
+-       <option name="project" value="LOCAL" />
+-       <updated>1665325108088</updated>
+-     </task>
+--    <option name="localTasksCounter" value="2" />
+-+    <task id="LOCAL-00002" summary="update">
+-+      <created>1665880233108</created>
+-+      <option name="number" value="00002" />
+-+      <option name="presentableId" value="LOCAL-00002" />
+-+      <option name="project" value="LOCAL" />
+-+      <updated>1665880233109</updated>
+-+    </task>
+-+    <option name="localTasksCounter" value="3" />
+-     <servers />
+-   </component>
+-   <component name="TypeScriptGeneratedFilesManager">
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_23_11_2022_14_23__Changes_.xml
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_23_11_2022_14_23__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_Update_at_23_11_2022_14_23__Changes_.xml
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_23_11_2022_14_23__Changes_.xml	(revision e44ff744c2b19f7bbeba1a62ce7b29267d82837f)
++++ /dev/null	(revision e44ff744c2b19f7bbeba1a62ce7b29267d82837f)
+@@ -1,4 +0,0 @@
+-<changelist name="Uncommitted_changes_before_Update_at_23_11_2022_14_23_[Changes]" date="1669209817851" recycled="true" deleted="true">
+-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_11_2022_14_23_[Changes]/shelved.patch" />
+-  <option name="DESCRIPTION" value="Uncommitted changes before Update at 23/11/2022 14:23 [Changes]" />
+-</changelist>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_23_11_2022_14_23_[Changes]/shelved.patch
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_23_11_2022_14_23_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Update_at_23_11_2022_14_23_[Changes]/shelved.patch
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_23_11_2022_14_23_[Changes]/shelved.patch	(revision e44ff744c2b19f7bbeba1a62ce7b29267d82837f)
++++ /dev/null	(revision e44ff744c2b19f7bbeba1a62ce7b29267d82837f)
+@@ -1,152 +0,0 @@
+-Index: .idea/shelf/Uncommitted_changes_before_Update_at_9_11_2022_14_30_[Changes]/shelved.patch
+-===================================================================
+-diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_9_11_2022_14_30_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Update_at_9_11_2022_14_30_[Changes]/shelved.patch
+-deleted file mode 100644
+---- a/.idea/shelf/Uncommitted_changes_before_Update_at_9_11_2022_14_30_[Changes]/shelved.patch	(revision 04d33c00f59425b28bd5db25ceb02d427fb24e18)
+-+++ /dev/null	(revision 04d33c00f59425b28bd5db25ceb02d427fb24e18)
+-@@ -1,96 +0,0 @@
+--Index: .idea/workspace.xml
+--IDEA additional info:
+--Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+--<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"1da2b0b2-18fa-4013-95df-c8e914690635\" name=\"Changes\" comment=\"Labo 3&#10;&#10;Update\">\r\n      <change afterPath=\"$PROJECT_DIR$/labo_5/index.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/labo_5/opdracht_1.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/labo_5/opdracht_3.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/labo_5/opdracht_4.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/labo_5/opdracht_6/Styles/stijl.css\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/labo_5/opdracht_6/index.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/labo_5/opdracht_7.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Labo_4/opdracht_5/Index.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Labo_4/opdracht_5/Index.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/index.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/index.html\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"CSS File\" />\r\n        <option value=\"HTML File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProblemsViewState\">\r\n    <option name=\"selectedTabId\" value=\"CurrentFile\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2FiTJ0yAB94tuBHgrclZT6ka3SW\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;C:/Users/dinom/OneDrive/Documenten/GitHub/webdevelopment&quot;,\r\n    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,\r\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\dinom\\OneDrive\\Documenten\\GitHub\\webdevelopment\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"1da2b0b2-18fa-4013-95df-c8e914690635\" name=\"Changes\" comment=\"\" />\r\n      <created>1664973832336</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1664973832336</updated>\r\n      <workItem from=\"1664973834717\" duration=\"1005000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"update\">\r\n      <created>1665325108088</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1665325108088</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"2\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"update\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"update\" />\r\n  </component>\r\n</project>
+--Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+--<+>UTF-8
+--===================================================================
+--diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+----- a/.idea/workspace.xml	(revision 3166ba640fddac1ee7cad249e6b1bc81c1f1c28d)
+--+++ b/.idea/workspace.xml	(date 1666707984088)
+--@@ -1,18 +1,7 @@
+-- <?xml version="1.0" encoding="UTF-8"?>
+-- <project version="4">
+--   <component name="ChangeListManager">
+---    <list default="true" id="1da2b0b2-18fa-4013-95df-c8e914690635" name="Changes" comment="Labo 3&#10;&#10;Update">
+---      <change afterPath="$PROJECT_DIR$/labo_5/index.html" afterDir="false" />
+---      <change afterPath="$PROJECT_DIR$/labo_5/opdracht_1.html" afterDir="false" />
+---      <change afterPath="$PROJECT_DIR$/labo_5/opdracht_3.html" afterDir="false" />
+---      <change afterPath="$PROJECT_DIR$/labo_5/opdracht_4.html" afterDir="false" />
+---      <change afterPath="$PROJECT_DIR$/labo_5/opdracht_6/Styles/stijl.css" afterDir="false" />
+---      <change afterPath="$PROJECT_DIR$/labo_5/opdracht_6/index.html" afterDir="false" />
+---      <change afterPath="$PROJECT_DIR$/labo_5/opdracht_7.html" afterDir="false" />
+---      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+---      <change beforePath="$PROJECT_DIR$/Labo_4/opdracht_5/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_4/opdracht_5/Index.html" afterDir="false" />
+---      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+---    </list>
+--+    <list default="true" id="1da2b0b2-18fa-4013-95df-c8e914690635" name="Changes" comment="Labo 3&#10;&#10;Update" />
+--     <option name="SHOW_DIALOG" value="false" />
+--     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+--     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+--@@ -40,17 +29,21 @@
+--     <option name="hideEmptyMiddlePackages" value="true" />
+--     <option name="showLibraryContents" value="true" />
+--   </component>
+---  <component name="PropertiesComponent">{
+---  &quot;keyToString&quot;: {
+---    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+---    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+---    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+---    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+---    &quot;last_opened_file_path&quot;: &quot;C:/Users/dinom/OneDrive/Documenten/GitHub/webdevelopment&quot;,
+---    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+---    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+--+  <component name="PropertiesComponent"><![CDATA[{
+--+  "keyToString": {
+--+    "DefaultHtmlFileTemplate": "HTML File",
+--+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+--+    "RunOnceActivity.ShowReadmeOnStart": "true",
+--+    "WebServerToolWindowFactoryState": "false",
+--+    "last_opened_file_path": "C:/Users/dinom/OneDrive/Documenten/GitHub/webdevelopment",
+--+    "list.type.of.created.stylesheet": "CSS",
+--+    "node.js.detected.package.eslint": "true",
+--+    "node.js.detected.package.tslint": "true",
+--+    "node.js.selected.package.eslint": "(autodetect)",
+--+    "node.js.selected.package.tslint": "(autodetect)",
+--+    "vue.rearranger.settings.migration": "true"
+--   }
+---}</component>
+--+}]]></component>
+--   <component name="RecentsManager">
+--     <key name="CopyFile.RECENT_KEYS">
+--       <recent name="C:\Users\dinom\OneDrive\Documenten\GitHub\webdevelopment" />
+--@@ -65,6 +58,7 @@
+--       <option name="presentableId" value="Default" />
+--       <updated>1664973832336</updated>
+--       <workItem from="1664973834717" duration="1005000" />
+--+      <workItem from="1666707458058" duration="520000" />
+--     </task>
+--     <task id="LOCAL-00001" summary="update">
+--       <created>1665325108088</created>
+--@@ -73,7 +67,14 @@
+--       <option name="project" value="LOCAL" />
+--       <updated>1665325108088</updated>
+--     </task>
+---    <option name="localTasksCounter" value="2" />
+--+    <task id="LOCAL-00002" summary="Labo 3&#10;&#10;Update">
+--+      <created>1666707731023</created>
+--+      <option name="number" value="00002" />
+--+      <option name="presentableId" value="LOCAL-00002" />
+--+      <option name="project" value="LOCAL" />
+--+      <updated>1666707731023</updated>
+--+    </task>
+--+    <option name="localTasksCounter" value="3" />
+--     <servers />
+--   </component>
+--   <component name="TypeScriptGeneratedFilesManager">
+--@@ -92,6 +93,7 @@
+--   </component>
+--   <component name="VcsManagerConfiguration">
+--     <MESSAGE value="update" />
+---    <option name="LAST_COMMIT_MESSAGE" value="update" />
+--+    <MESSAGE value="Labo 3&#10;&#10;Update" />
+--+    <option name="LAST_COMMIT_MESSAGE" value="Labo 3&#10;&#10;Update" />
+--   </component>
+-- </project>
+--\ No newline at end of file
+-Index: .idea/shelf/Uncommitted_changes_before_Update_at_9_11_2022_14_30__Changes_.xml
+-===================================================================
+-diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_9_11_2022_14_30__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_Update_at_9_11_2022_14_30__Changes_.xml
+-deleted file mode 100644
+---- a/.idea/shelf/Uncommitted_changes_before_Update_at_9_11_2022_14_30__Changes_.xml	(revision 04d33c00f59425b28bd5db25ceb02d427fb24e18)
+-+++ /dev/null	(revision 04d33c00f59425b28bd5db25ceb02d427fb24e18)
+-@@ -1,4 +0,0 @@
+--<changelist name="Uncommitted_changes_before_Update_at_9_11_2022_14_30_[Changes]" date="1668000622270" recycled="true" deleted="true">
+--  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_9_11_2022_14_30_[Changes]/shelved.patch" />
+--  <option name="DESCRIPTION" value="Uncommitted changes before Update at 9/11/2022 14:30 [Changes]" />
+--</changelist>
+-\ No newline at end of file
+-Index: .idea/workspace.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"1da2b0b2-18fa-4013-95df-c8e914690635\" name=\"Changes\" comment=\"Labo 3&#10;&#10;Update\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"CSS File\" />\r\n        <option value=\"HTML File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProblemsViewState\">\r\n    <option name=\"selectedTabId\" value=\"CurrentFile\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2FiTJ0yAB94tuBHgrclZT6ka3SW\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"DefaultHtmlFileTemplate\": \"HTML File\",\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"WebServerToolWindowFactoryState\": \"false\",\r\n    \"last_opened_file_path\": \"C:/Users/dinom/OneDrive/Documenten/GitHub/webdevelopment\",\r\n    \"list.type.of.created.stylesheet\": \"CSS\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\dinom\\OneDrive\\Documenten\\GitHub\\webdevelopment\" />\r\n    </key>\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\dinom\\OneDrive\\Documenten\\GitHub\\webdevelopment\\Fotos\" />\r\n      <recent name=\"C:\\Users\\dinom\\OneDrive\\Documenten\\GitHub\\webdevelopment\\Labo_7\\opdracht_Nature_Blog\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"1da2b0b2-18fa-4013-95df-c8e914690635\" name=\"Changes\" comment=\"\" />\r\n      <created>1664973832336</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1664973832336</updated>\r\n      <workItem from=\"1664973834717\" duration=\"1005000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"update\">\r\n      <created>1665325108088</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1665325108088</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Labo 3&#10;&#10;Update\">\r\n      <created>1668000890716</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1668000890716</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Labo 3&#10;&#10;Update\">\r\n      <created>1668001209900</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1668001209900</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Labo 3&#10;&#10;Update\">\r\n      <created>1668002139562</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1668002139562</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"Labo 3&#10;&#10;Update\">\r\n      <created>1668002165668</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1668002165668</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"Labo 3&#10;&#10;Update\">\r\n      <created>1668002324588</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1668002324588</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"Labo 3&#10;&#10;Update\">\r\n      <created>1668002508500</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1668002508500</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"Labo 3&#10;&#10;Update\">\r\n      <created>1668002924771</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1668002924771</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"Labo 3&#10;&#10;Update\">\r\n      <created>1668003167589</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1668003167589</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00010\" summary=\"Labo 3&#10;&#10;Update\">\r\n      <created>1668004236674</created>\r\n      <option name=\"number\" value=\"00010\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1668004236674</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00011\" summary=\"Labo 3&#10;&#10;Update\">\r\n      <created>1668005527262</created>\r\n      <option name=\"number\" value=\"00011\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00011\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1668005527262</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00012\" summary=\"Labo 3&#10;&#10;Update\">\r\n      <created>1668006123583</created>\r\n      <option name=\"number\" value=\"00012\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00012\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1668006123583</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"13\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"update\" />\r\n    <MESSAGE value=\"Labo 3&#10;&#10;Update\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Labo 3&#10;&#10;Update\" />\r\n  </component>\r\n</project>
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+---- a/.idea/workspace.xml	(revision 04d33c00f59425b28bd5db25ceb02d427fb24e18)
+-+++ b/.idea/workspace.xml	(date 1668006891541)
+-@@ -4,9 +4,7 @@
+-     <option name="autoReloadType" value="SELECTIVE" />
+-   </component>
+-   <component name="ChangeListManager">
+--    <list default="true" id="1da2b0b2-18fa-4013-95df-c8e914690635" name="Changes" comment="Labo 3&#10;&#10;Update">
+--      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+--    </list>
+-+    <list default="true" id="1da2b0b2-18fa-4013-95df-c8e914690635" name="Changes" comment="Labo 3&#10;&#10;Update" />
+-     <option name="SHOW_DIALOG" value="false" />
+-     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+-     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+-@@ -152,7 +150,14 @@
+-       <option name="project" value="LOCAL" />
+-       <updated>1668006123583</updated>
+-     </task>
+--    <option name="localTasksCounter" value="13" />
+-+    <task id="LOCAL-00013" summary="Labo 3&#10;&#10;Update">
+-+      <created>1668006879782</created>
+-+      <option name="number" value="00013" />
+-+      <option name="presentableId" value="LOCAL-00013" />
+-+      <option name="project" value="LOCAL" />
+-+      <updated>1668006879782</updated>
+-+    </task>
+-+    <option name="localTasksCounter" value="14" />
+-     <servers />
+-   </component>
+-   <component name="TypeScriptGeneratedFilesManager">
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"1da2b0b2-18fa-4013-95df-c8e914690635\" name=\"Changes\" comment=\"Labo 3&#10;&#10;Update\">\r\n      <change afterPath=\"$PROJECT_DIR$/Fotos/background.gif\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Fotos/black.gif\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Fotos/blue.gif\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Fotos/chai.gif\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Fotos/cocktail.gif\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Fotos/cocktails.png\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Fotos/green.gif\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Fotos/lightblue.gif\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Fotos/red.gif\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Fotos/yellow.gif\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Labo_4_CSS/Opdracht_1/index.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Labo_4_CSS/Opdracht_2.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Labo_4_CSS/Opdracht_3/index.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Labo_4_CSS/Opdracht_4/index.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Labo_4_CSS/Opdracht_4/voorbeeld3.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Labo_4_CSS/Opdracht_5/index.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Labo_4_CSS/Opdracht_5/voorbeeld4.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Labo_4_CSS/Opdracht_Cocktail_bar/index.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Labo_4_CSS/Opdracht_Cocktail_bar/style.css\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Labo_4_CSS/Opdracht_Lorem_ipsum/index.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Labo_4_CSS/Opdracht_Lorem_ipsum/style.css\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Labo_4_CSS/Opdracht_lorem_ipsum_extra_space/index.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Labo_4_CSS/Opdracht_lorem_ipsum_extra_space/style.css\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Labo_4_CSS/index.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_11_2022_18_47__Changes_.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_11_2022_18_47__Changes_.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_9_11_2022_14_30_[Changes]/shelved.patch\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_9_11_2022_14_30__Changes_.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Labo_3/CSS.css\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Labo_3_HTML/CSS.css\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Labo_3/contact/index.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Labo_3_HTML/contact/index.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Labo_3/homepage/index.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Labo_3_HTML/homepage/index.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Labo_3/index.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Labo_3_HTML/index.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Labo_3/opdrachten_1_2_3.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Labo_3_HTML/opdrachten_1_2_3.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Labo_3/opleidingsaanbod/index.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Labo_3_HTML/opleidingsaanbod/index.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Labo_4/index.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Labo_4_HTML/index.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Labo_4/opdracht_1.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Labo_4_HTML/opdracht_1.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Labo_4/opdracht_2.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Labo_4_HTML/opdracht_2.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Labo_4/opdracht_3.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Labo_4_HTML/opdracht_3.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Labo_4/opdracht_5/Hobby's.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Labo_4_HTML/opdracht_5/Hobby's.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Labo_4/opdracht_5/Index.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Labo_4_HTML/opdracht_5/Index.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Labo_4/opdracht_5/likes.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Labo_4_HTML/opdracht_5/likes.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Labo_5/index.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Labo_1_CSS/index.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Labo_5/opdracht_1.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Labo_1_CSS/opdracht_1.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Labo_5/opdracht_3.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Labo_1_CSS/opdracht_3.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Labo_5/opdracht_4.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Labo_1_CSS/opdracht_4.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Labo_5/opdracht_6/Styles/stijl.css\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Labo_1_CSS/opdracht_6/Styles/stijl.css\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Labo_5/opdracht_6/index.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Labo_1_CSS/opdracht_6/index.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Labo_5/opdracht_7.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Labo_1_CSS/opdracht_7.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Labo_6/index.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Labo_2_CSS/index.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Labo_6/opdracht_1/index.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Labo_2_CSS/opdracht_1/index.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Labo_6/opdracht_1/opdracht_1.css\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Labo_2_CSS/opdracht_1/opdracht_1.css\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Labo_6/opdracht_3/index.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Labo_2_CSS/opdracht_3/index.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Labo_6/opdracht_3/opdracht_3.css\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Labo_2_CSS/opdracht_3/opdracht_3.css\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Labo_6/opdracht_5/index.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Labo_2_CSS/opdracht_5/index.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Labo_6/opdracht_5/opdracht_5.css\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Labo_2_CSS/opdracht_5/opdracht_5.css\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Labo_6/opdracht_6/index.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Labo_2_CSS/opdracht_6/index.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Labo_6/opdracht_6/opdracht_6.css\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Labo_2_CSS/opdracht_6/opdracht_6.css\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Labo_7/index.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Labo_3_CSS/index.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Labo_7/opdracht_2.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Labo_3_CSS/opdracht_2.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Labo_7/opdracht_3.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Labo_3_CSS/opdracht_3.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Labo_7/opdracht_Kalender/index.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Labo_3_CSS/opdracht_Kalender/index.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Labo_7/opdracht_Kalender/style.css\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Labo_3_CSS/opdracht_Kalender/style.css\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Labo_7/opdracht_Nature_Blog/index.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Labo_3_CSS/opdracht_Nature_Blog/index.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Labo_7/opdracht_Nature_Blog/style.css\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Labo_3_CSS/opdracht_Nature_Blog/style.css\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Labo_7/opdracht_Persoonlijke_Homepagina/Personal information.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Labo_3_CSS/opdracht_Persoonlijke_Homepagina/Personal information.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Labo_7/opdracht_Persoonlijke_Homepagina/global.css\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Labo_3_CSS/opdracht_Persoonlijke_Homepagina/global.css\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Labo_7/opdracht_Persoonlijke_Homepagina/hobbys.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Labo_3_CSS/opdracht_Persoonlijke_Homepagina/hobbys.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Labo_7/opdracht_Persoonlijke_Homepagina/hoofdpagina index.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Labo_3_CSS/opdracht_Persoonlijke_Homepagina/hoofdpagina index.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Labo_7/opdracht_Persoonlijke_Homepagina/index.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Labo_3_CSS/opdracht_Persoonlijke_Homepagina/index.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Labo_7/opdracht_Persoonlijke_Homepagina/likes.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Labo_3_CSS/opdracht_Persoonlijke_Homepagina/likes.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Labo_7/opdracht_Persoonlijke_Homepagina/persoongegevens.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Labo_3_CSS/opdracht_Persoonlijke_Homepagina/persoongegevens.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Labo_7/opdracht_Persoonlijke_Homepagina/progose.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Labo_3_CSS/opdracht_Persoonlijke_Homepagina/progose.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/index.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/index.html\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"CSS File\" />\r\n        <option value=\"HTML File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProblemsViewState\">\r\n    <option name=\"selectedTabId\" value=\"CurrentFile\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2FiTJ0yAB94tuBHgrclZT6ka3SW\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;C:/Users/dinom/OneDrive/Documenten/GitHub/webdevelopment&quot;,\r\n    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,\r\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\dinom\\OneDrive\\Documenten\\GitHub\\webdevelopment\" />\r\n    </key>\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\dinom\\OneDrive\\Documenten\\GitHub\\webdevelopment\\Labo_4_CSS\\Opdracht_Cocktail_bar\" />\r\n      <recent name=\"C:\\Users\\dinom\\OneDrive\\Documenten\\GitHub\\webdevelopment\\Fotos\" />\r\n      <recent name=\"C:\\Users\\dinom\\OneDrive\\Documenten\\GitHub\\webdevelopment\\Labo_4_CSS\\Opdracht_5\" />\r\n      <recent name=\"C:\\Users\\dinom\\OneDrive\\Documenten\\GitHub\\webdevelopment\\Labo_4_CSS\\Opdracht_4\" />\r\n      <recent name=\"C:\\Users\\dinom\\OneDrive\\Documenten\\GitHub\\webdevelopment\\Labo_4_CSS\\index.html\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"1da2b0b2-18fa-4013-95df-c8e914690635\" name=\"Changes\" comment=\"\" />\r\n      <created>1664973832336</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1664973832336</updated>\r\n      <workItem from=\"1664973834717\" duration=\"1005000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"update\">\r\n      <created>1665325108088</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1665325108088</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Labo 3&#10;&#10;Update\">\r\n      <created>1668000890716</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1668000890716</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Labo 3&#10;&#10;Update\">\r\n      <created>1668001209900</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1668001209900</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Labo 3&#10;&#10;Update\">\r\n      <created>1668002139562</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1668002139562</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"Labo 3&#10;&#10;Update\">\r\n      <created>1668002165668</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1668002165668</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"Labo 3&#10;&#10;Update\">\r\n      <created>1668002324588</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1668002324588</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"Labo 3&#10;&#10;Update\">\r\n      <created>1668002508500</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1668002508500</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"Labo 3&#10;&#10;Update\">\r\n      <created>1668002924771</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1668002924771</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"Labo 3&#10;&#10;Update\">\r\n      <created>1668003167589</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1668003167589</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00010\" summary=\"Labo 3&#10;&#10;Update\">\r\n      <created>1668004236674</created>\r\n      <option name=\"number\" value=\"00010\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1668004236674</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00011\" summary=\"Labo 3&#10;&#10;Update\">\r\n      <created>1668005527262</created>\r\n      <option name=\"number\" value=\"00011\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00011\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1668005527262</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00012\" summary=\"Labo 3&#10;&#10;Update\">\r\n      <created>1668006123583</created>\r\n      <option name=\"number\" value=\"00012\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00012\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1668006123583</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"13\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"update\" />\r\n    <MESSAGE value=\"Labo 3&#10;&#10;Update\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Labo 3&#10;&#10;Update\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision e44ff744c2b19f7bbeba1a62ce7b29267d82837f)
++++ b/.idea/workspace.xml	(date 1669216364683)
+@@ -4,81 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="1da2b0b2-18fa-4013-95df-c8e914690635" name="Changes" comment="Labo 3&#10;&#10;Update">
+-      <change afterPath="$PROJECT_DIR$/Fotos/background.gif" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Fotos/black.gif" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Fotos/blue.gif" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Fotos/chai.gif" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Fotos/cocktail.gif" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Fotos/cocktails.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Fotos/green.gif" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Fotos/lightblue.gif" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Fotos/red.gif" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Fotos/yellow.gif" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Labo_4_CSS/Opdracht_1/index.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Labo_4_CSS/Opdracht_2.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Labo_4_CSS/Opdracht_3/index.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Labo_4_CSS/Opdracht_4/index.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Labo_4_CSS/Opdracht_4/voorbeeld3.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Labo_4_CSS/Opdracht_5/index.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Labo_4_CSS/Opdracht_5/voorbeeld4.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Labo_4_CSS/Opdracht_Cocktail_bar/index.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Labo_4_CSS/Opdracht_Cocktail_bar/style.css" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Labo_4_CSS/Opdracht_Lorem_ipsum/index.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Labo_4_CSS/Opdracht_Lorem_ipsum/style.css" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Labo_4_CSS/Opdracht_lorem_ipsum_extra_space/index.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Labo_4_CSS/Opdracht_lorem_ipsum_extra_space/style.css" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Labo_4_CSS/index.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_11_2022_18_47__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_11_2022_18_47__Changes_.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_9_11_2022_14_30_[Changes]/shelved.patch" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_9_11_2022_14_30__Changes_.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Labo_3/CSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_3_HTML/CSS.css" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Labo_3/contact/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_3_HTML/contact/index.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Labo_3/homepage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_3_HTML/homepage/index.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Labo_3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_3_HTML/index.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Labo_3/opdrachten_1_2_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_3_HTML/opdrachten_1_2_3.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Labo_3/opleidingsaanbod/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_3_HTML/opleidingsaanbod/index.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Labo_4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_4_HTML/index.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Labo_4/opdracht_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_4_HTML/opdracht_1.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Labo_4/opdracht_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_4_HTML/opdracht_2.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Labo_4/opdracht_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_4_HTML/opdracht_3.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Labo_4/opdracht_5/Hobby's.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_4_HTML/opdracht_5/Hobby's.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Labo_4/opdracht_5/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_4_HTML/opdracht_5/Index.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Labo_4/opdracht_5/likes.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_4_HTML/opdracht_5/likes.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Labo_5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_1_CSS/index.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Labo_5/opdracht_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_1_CSS/opdracht_1.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Labo_5/opdracht_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_1_CSS/opdracht_3.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Labo_5/opdracht_4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_1_CSS/opdracht_4.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Labo_5/opdracht_6/Styles/stijl.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_1_CSS/opdracht_6/Styles/stijl.css" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Labo_5/opdracht_6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_1_CSS/opdracht_6/index.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Labo_5/opdracht_7.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_1_CSS/opdracht_7.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Labo_6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_2_CSS/index.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Labo_6/opdracht_1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_2_CSS/opdracht_1/index.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Labo_6/opdracht_1/opdracht_1.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_2_CSS/opdracht_1/opdracht_1.css" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Labo_6/opdracht_3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_2_CSS/opdracht_3/index.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Labo_6/opdracht_3/opdracht_3.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_2_CSS/opdracht_3/opdracht_3.css" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Labo_6/opdracht_5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_2_CSS/opdracht_5/index.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Labo_6/opdracht_5/opdracht_5.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_2_CSS/opdracht_5/opdracht_5.css" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Labo_6/opdracht_6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_2_CSS/opdracht_6/index.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Labo_6/opdracht_6/opdracht_6.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_2_CSS/opdracht_6/opdracht_6.css" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Labo_7/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_3_CSS/index.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Labo_7/opdracht_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_3_CSS/opdracht_2.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Labo_7/opdracht_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_3_CSS/opdracht_3.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Labo_7/opdracht_Kalender/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_3_CSS/opdracht_Kalender/index.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Labo_7/opdracht_Kalender/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_3_CSS/opdracht_Kalender/style.css" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Labo_7/opdracht_Nature_Blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_3_CSS/opdracht_Nature_Blog/index.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Labo_7/opdracht_Nature_Blog/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_3_CSS/opdracht_Nature_Blog/style.css" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Labo_7/opdracht_Persoonlijke_Homepagina/Personal information.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_3_CSS/opdracht_Persoonlijke_Homepagina/Personal information.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Labo_7/opdracht_Persoonlijke_Homepagina/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_3_CSS/opdracht_Persoonlijke_Homepagina/global.css" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Labo_7/opdracht_Persoonlijke_Homepagina/hobbys.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_3_CSS/opdracht_Persoonlijke_Homepagina/hobbys.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Labo_7/opdracht_Persoonlijke_Homepagina/hoofdpagina index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_3_CSS/opdracht_Persoonlijke_Homepagina/hoofdpagina index.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Labo_7/opdracht_Persoonlijke_Homepagina/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_3_CSS/opdracht_Persoonlijke_Homepagina/index.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Labo_7/opdracht_Persoonlijke_Homepagina/likes.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_3_CSS/opdracht_Persoonlijke_Homepagina/likes.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Labo_7/opdracht_Persoonlijke_Homepagina/persoongegevens.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_3_CSS/opdracht_Persoonlijke_Homepagina/persoongegevens.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Labo_7/opdracht_Persoonlijke_Homepagina/progose.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_3_CSS/opdracht_Persoonlijke_Homepagina/progose.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+-    </list>
++    <list default="true" id="1da2b0b2-18fa-4013-95df-c8e914690635" name="Changes" comment="Labo 3&#10;&#10;Update" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -227,7 +153,21 @@
+       <option name="project" value="LOCAL" />
+       <updated>1668006123583</updated>
+     </task>
+-    <option name="localTasksCounter" value="13" />
++    <task id="LOCAL-00013" summary="Labo 3&#10;&#10;Update">
++      <created>1669216006363</created>
++      <option name="number" value="00013" />
++      <option name="presentableId" value="LOCAL-00013" />
++      <option name="project" value="LOCAL" />
++      <updated>1669216006363</updated>
++    </task>
++    <task id="LOCAL-00014" summary="Labo 3&#10;&#10;Update">
++      <created>1669216041812</created>
++      <option name="number" value="00014" />
++      <option name="presentableId" value="LOCAL-00014" />
++      <option name="project" value="LOCAL" />
++      <updated>1669216041812</updated>
++    </task>
++    <option name="localTasksCounter" value="15" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
